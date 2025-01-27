@@ -1,0 +1,12 @@
+leon\screen\scraper\entity\Market.class
+leon\screen\scraper\processing\GetMatchesInfoService.class
+leon\screen\scraper\entity\Outcome.class
+leon\screen\scraper\processing\GetTopLeaguesServices.class
+leon\screen\scraper\LeonScraperApplication.class
+leon\screen\scraper\mappers\JsonToMatchesMapper.class
+leon\screen\scraper\entity\League.class
+leon\screen\scraper\entity\Match.class
+leon\screen\scraper\processing\CreateGetRequestOperation.class
+leon\screen\scraper\enums\SportFamily.class
+leon\screen\scraper\processing\ProcessBetInfoService.class
+leon\screen\scraper\mappers\JsonToLeaguesMapper.class

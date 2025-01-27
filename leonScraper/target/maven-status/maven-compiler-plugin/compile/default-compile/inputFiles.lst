@@ -1,0 +1,13 @@
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\Configs.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\entity\League.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\entity\Market.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\entity\Match.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\entity\Outcome.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\enums\SportFamily.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\LeonScraperApplication.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\mappers\JsonToLeaguesMapper.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\mappers\JsonToMatchesMapper.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\processing\CreateGetRequestOperation.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\processing\GetMatchesInfoService.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\processing\GetTopLeaguesServices.java
+C:\Users\UdovenkoA\IdeaProjects\leonScraper\src\main\java\leon\screen\scraper\processing\ProcessBetInfoService.java
