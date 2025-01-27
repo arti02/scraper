@@ -12,7 +12,7 @@ public record PrintInfoScheduler(GetTopLeaguesServices topLeaguesServices,
                                  GetMatchesInfoService getMatchesInfoService) {
 
 
-    @Scheduled(cron = "*/30 * * * * *")
+    @Scheduled(cron = "${cronExpression}")
     public void execute() throws JsonProcessingException {
         List<League> leagues = topLeaguesServices.execute();
         getMatchesInfoService.execute(leagues);
